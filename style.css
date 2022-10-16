@@ -5,3 +5,22 @@ body {
     border-top-color:black;
     border-top-style:solid;
 }
+
+.firstline {
+    border-bottom-color:red;
+    border-bottom-style:inset;
+   width:35%;
+}
+
+.project {
+    border-top-style:solid;
+    border-top-color:black;
+    width:20%;
+    
+}
+
+.projectend {
+    border-bottom-style:solid;
+    border-bottom-color:black;
+    width:20%
+}
